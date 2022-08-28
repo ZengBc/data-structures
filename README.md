@@ -1,2 +1,7 @@
 # data-structures
-每周末写一点
+| date      | language | structure     |
+| --------- | -------- | ------------- |
+| 2022/8/28 | C        | Dynamic Array |
+|           |          |               |
+|           |          |               |
+
