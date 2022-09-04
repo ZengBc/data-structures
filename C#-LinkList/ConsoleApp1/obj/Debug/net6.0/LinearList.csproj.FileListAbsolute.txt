@@ -1,0 +1,15 @@
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\bin\Debug\net6.0\LinearList.exe
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\bin\Debug\net6.0\LinearList.deps.json
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\bin\Debug\net6.0\LinearList.runtimeconfig.json
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\bin\Debug\net6.0\LinearList.dll
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\bin\Debug\net6.0\LinearList.pdb
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.csproj.AssemblyReference.cache
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.AssemblyInfoInputs.cache
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.AssemblyInfo.cs
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.csproj.CoreCompileInputs.cache
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.dll
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\refint\LinearList.dll
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.pdb
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\LinearList.genruntimeconfig.cache
+C:\Users\86198\Desktop\git\data-structures\C#-LinkList\ConsoleApp1\obj\Debug\net6.0\ref\LinearList.dll
