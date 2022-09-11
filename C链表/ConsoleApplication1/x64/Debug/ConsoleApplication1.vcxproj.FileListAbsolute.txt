@@ -1,4 +1,0 @@
-C:\Users\86198\Desktop\git\data-structures\LinkList\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.MdMergeInputs.cache
-C:\Users\86198\Desktop\git\data-structures\LinkList\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.cppwinrt_plat.cache
-C:\Users\86198\Desktop\git\data-structures\LinkList\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.cppwinrt_comp.cache
-C:\Users\86198\Desktop\git\data-structures\LinkList\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
