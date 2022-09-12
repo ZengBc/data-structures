@@ -1,5 +1,5 @@
-# data-structures ![Author](https://img.shields.io/badge/Author-ZengBc-da282a)
-
+# data-structures 
+![Author](https://img.shields.io/badge/Author-ZengBc-da282a)
 | date       | language | structure      |
 | :--------- | :------- | :------------- |
 | 2022/08/28 | C        | 数组           |
