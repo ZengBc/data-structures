@@ -1,6 +1,6 @@
 # data-structures 
 ![Author](https://img.shields.io/badge/Author-ZengBc-da282a)
-| date       | language | structure             |
+| date       |  |              |
 | :--------- | :------- | :-------------------- |
 | 2022/08/28 | C        | 数组                  |
 | 2022/09/04 | C        | 链表                  |
